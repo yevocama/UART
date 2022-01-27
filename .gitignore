@@ -1,0 +1,8 @@
+*.qpf
+*.qsf
+/db/
+/incremental_db/
+/output_files/
+/simulation/work/
+/simulation/transcript
+/simulation/vsim.wlf
